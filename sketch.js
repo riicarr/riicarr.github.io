@@ -77,7 +77,7 @@ draw = () => {
   text(10,37,65);
 }
 
-keyPressed = () => {
+mousePressed = () => {
 	if (rouletteStarted) {
 		rouletteIsStopping = true;
 	}
