@@ -63,7 +63,7 @@ draw = () => {
 		rotate(PI / 15);
 		noFill();
 	}
-  fill(255);
+  fill();
   textSize(40);
   text(1,8,75);
   text(2,-38,75);
